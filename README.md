@@ -35,27 +35,25 @@ The architecture is modular and designed for clarity, debugging, and extension.
 ---
 
 ## 3. Robot Overview
-
-![](media/GP(1).jpeg)
-
+<p align="center"> <img src="media/GP(1).jpeg" width="600"> </p>
 ---
 
 ## 4. Mechanical & Hardware Setup
 
 ### Bottom View (Motors + Driver)
 
-![](media/GP(3).jpeg)
+<p align="center"> <img src="media/GP(3).jpeg" width="450"> </p>
 
 ### Front View (Ultrasonic + Camera)
 
-![](media/GP(8).jpeg)
+<p align="center"> <img src="media/GP(8).jpeg" width="450"> </p>
 
 
 ---
 
 ## 5. Hardware Components
 
-![](media/GP(10).png)
+<p align="center"> <img src="media/GP(10).png" width="450"> </p>
 
 
 Main Components:
@@ -73,7 +71,8 @@ Main Components:
 
 ## 6. Circuit Diagram
 
-![](media/GP(11).png)
+<p align="center"> <img src="media/GP(11).png" width="450"> </p>
+
 
 
 The circuit integrates:
@@ -134,7 +133,7 @@ This reduces noise and computational load.
 
 ## 9. Path Visualization
 
-![](media/GP(5).jpeg)
+<p align="center"> <img src="media/GP(5).jpeg" width="450"> </p>
 
 
 The plot shows:
@@ -146,7 +145,7 @@ The plot shows:
 
 ## 10. Gesture-Based Control (Computer Vision)
 
-![](media/GP(7).jpeg)
+<p align="center"> <img src="media/GP(7).jpeg" width="450"> </p>
 
 
 MediaPipe is used for:
@@ -160,7 +159,8 @@ This enables real-time AI-based interaction.
 
 ## 11. Real Path Execution
 
-![](media/GP(5).jpeg)
+<p align="center"> <img src="media/GP(9).jpeg" width="450"> </p>
+
 
 
 Robot successfully repeats learned trajectory using:
@@ -239,4 +239,5 @@ This project represents a complete embedded robotics system integrating hardware
 
 ## Video
 
-![](media/GP(1).mp4)
+[▶ Watch Demo Video](https://www.youtube.com/shorts/t58b5VQeN5I?feature=share)
+
