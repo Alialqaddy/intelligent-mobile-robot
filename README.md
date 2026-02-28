@@ -71,7 +71,7 @@ Main Components:
 
 ## 6. Circuit Diagram
 
-<p align="center"> <img src="media/GP(11).png" width="600"> </p>
+<p align="center"> <img src="media/GP(11).png" width="650"> </p>
 
 
 
@@ -240,5 +240,6 @@ This project represents a complete embedded robotics system integrating hardware
 ## Video
 
 [▶ Watch Demo Video](https://www.youtube.com/shorts/t58b5VQeN5I?feature=share)
+
 
 
