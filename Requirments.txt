@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+mediapipe
+gpiozero
+RPi.GPIO
+picamera2
+keyboard
